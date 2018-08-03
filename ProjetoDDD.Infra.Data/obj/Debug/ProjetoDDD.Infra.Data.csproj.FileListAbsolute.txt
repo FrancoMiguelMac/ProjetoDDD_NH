@@ -24,3 +24,29 @@ C:\Users\leugi\Documents\Minhas APPs\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\
 C:\Users\leugi\Documents\Minhas APPs\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csproj.CopyComplete
 C:\Users\leugi\Documents\Minhas APPs\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
 C:\Users\leugi\Documents\Minhas APPs\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Antlr3.Runtime.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\NHibernate.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Remotion.Linq.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Antlr3.Runtime.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\NHibernate.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Remotion.Linq.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csproj.CopyComplete
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\leugi\source\repos\ProjetoDDD_NH\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb

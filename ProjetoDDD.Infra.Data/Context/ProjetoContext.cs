@@ -14,7 +14,7 @@ namespace ProjetoDDD.Infra.Data.Context
         {
             ISessionFactory sessionFactory = Fluently.Configure()
                 .Database(MsSqlConfiguration.MsSql2012
-                  .ConnectionString(@"Data Source=MIGUEL-MAC-PC;Initial Catalog=ProjetoDDD;Integrated Security=True;")
+                  .ConnectionString(x => x.FromConnectionStringWithKey("NHConnectionString"))
                               .ShowSql()
                 )
                .Mappings(m =>
