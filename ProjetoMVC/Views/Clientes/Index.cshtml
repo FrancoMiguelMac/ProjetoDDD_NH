@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ProjetoDDD.Domain.Entities.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Clientes</h2>
+
+<p>
+    <a type="button" class="btn btn-sm btn-primary" href="@Url.Action("Create", "Clientes")">Novo Cliente</a>
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </th>
+        <th>
+            Data de Cadastro
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cpf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataCadastro)
+        </td>
+        <td>
+            <a type="button" class="btn btn-sm btn-success" href="@Url.Action("Edit", "Clientes", new { id=item.ClienteId })"><i class="glyphicon glyphicon-pencil"></i></a>
+            @if (!item.Produtos.Any())
+            {
+                <a type="button" class="btn btn-sm btn-danger" href="@Url.Action("Delete", "Clientes", new { id=item.ClienteId })"><i class="glyphicon glyphicon-trash"></i></a>
+            }
+            <a type="button" class="btn btn-sm btn-primary" href="@Url.Action("Create", "Produtos", new { clienteId = item.ClienteId })">Novo Produto</a>
+            @if (item.Produtos.Any())
+            {
+                <a type="button" class="btn btn-sm btn-info" href="@Url.Action("Index", "Produtos", new { clienteId=item.ClienteId })">Ver lista de Produtos</a>
+            }
+        </td>
+    </tr>
+}
+
+</table>

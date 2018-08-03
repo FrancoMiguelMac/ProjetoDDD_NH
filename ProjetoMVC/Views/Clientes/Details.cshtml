@@ -1,0 +1,37 @@
+﻿@model ProjetoMVC.ViewModels.ClienteViewModel
+
+<h2>Details</h2>
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cpf)
+        </dd>
+
+        <dt>
+            Data de Cadastro
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataCadastro)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a type="button" class="btn btn-sm btn-success" href="@Url.Action("Edit", "Clientes", new { id=Model.ClienteId })">Editar</a> |
+    @Html.ActionLink("Back to List", "Index")
+</p>
